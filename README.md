@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kraiwit Keyen
 
-<!--
-**maker-tung/maker-tung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer & Trading Systems Developer
 
-Here are some ideas to get you started:
+Focused on building:
+- Algorithmic Trading Systems
+- Trading Automation
+- Backend & API Development
+- Real-time Data Processing
+- System Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • JavaScript • PHP • SQL • MQL4/MQL5 • React • Next.js
+
+## Interests
+Trading Systems • Automation • Quantitative Research • AI-assisted Development
+
+## Current Focus
+- Automated Trading Systems
+- Risk Management Logic
+- Strategy Optimization
+- Trading Infrastructure
